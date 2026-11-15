@@ -1,40 +1,52 @@
-# 🚀 Task 4 LinkedIn Submission Post Template
+# 🚀 Task 4 LinkedIn Video Explanation Post Template
 ## SWYNEX Technologies — Cyber Security Internship
 
-> **Instructions for Submission:**
-> 1. Copy the post text below.
-> 2. Open LinkedIn, create a new post, and paste the text.
-> 3. Tag **@SWYNEX Technologies** by typing `@SWYNEX` and selecting the official verified company page from the dropdown.
-> 4. Attach a screenshot or short video (e.g., from `evidence/` or the generated report / dashboard).
-> 5. Post it and copy your LinkedIn post URL.
-> 6. Paste the post URL into the **"LinkedIn explanation post link"** field on the SWYNEX internship portal.
+> **Quick Instructions:**
+> 1. Open LinkedIn and click **"Start a post"**.
+> 2. Attach your **Task 4 Video** (showing the consolidated overview of Tasks 1, 2, and 3).
+> 3. Copy & paste the text below.
+> 4. Tag **@SWYNEX Technologies** (select the official company page from the drop-down).
+> 5. Click **Post**, then copy your post link and paste it into the SWYNEX portal.
 
 ---
 
-### 📝 LinkedIn Post Text (Copy & Paste Ready):
+### 📋 Option 1: Engaging & Professional (Recommended)
 
 ```text
-Excited to announce that I have successfully completed Task 4: Security Assessment Report, marking the completion of all technical tasks for my Cyber Security Internship with SWYNEX Technologies! 🛡️💼
+🎥 Excited to share my final video presentation and walkthrough for Task 4: Security Assessment Report at SWYNEX Technologies, concluding my 30-day Cyber Security Internship! 🛡️💼
 
-Throughout this 30-day journey, I conducted in-depth defensive security assessments across three key pillars:
+In this video, I provide a consolidated walkthrough of our defensive security findings synthesized across all three technical domains:
 
-1️⃣ Task 1: Security Fundamentals Assessment – Analyzed REST API access controls on an Orphanage Management System, identified a broken authentication vulnerability on the administrative dashboard, and remediated it using server-side role-based authorization (@role_required("ADMIN")).
-2️⃣ Task 2: Network Security Analysis – Analyzed live multi-layer network traffic using Wireshark, dissecting OSI protocol hierarchies, auditing TCP 3-way handshakes, and verifying TLS 1.3 cryptographic negotiation (TLS_AES_256_GCM_SHA384).
-3️⃣ Task 3: Defensive Web Security Review – Evaluated an isolated OWASP Juice Shop application against the OWASP Top 10, uncovering SQL Injection authentication bypass (' OR 1=1--), evaluating HTTP security response headers, and testing access control boundaries.
-4️⃣ Task 4: Security Assessment Report – Synthesized all empirical findings into a comprehensive, executive-grade Defensive Security Assessment Report featuring CVSS v3.1 scoring, DREAD threat modeling, sanitized evidence archives, and an actionable remediation roadmap.
+🔹 Task 1: Security Fundamentals Assessment – Evaluated REST API authorization on an Orphanage Management System, identified missing authentication on the administrative dashboard, and implemented server-side remediation using role-based access control (@role_required("ADMIN")).
+🔹 Task 2: Network Security Analysis – Conducted multi-layer packet inspection using Wireshark, analyzing protocol hierarchies (94.8% IPv6, 71.3% TLS volume), verifying TCP handshakes, and auditing TLS 1.3 cryptographic handshakes (TLS_AES_256_GCM_SHA384).
+🔹 Task 3: Defensive Web Security Review – Assessed an isolated OWASP Juice Shop application, demonstrating SQL Injection authentication bypass (' OR 1=1--), inspecting HTTP response headers (CSP/HSTS), and validating secure authentication boundaries.
+🔹 Task 4: Defensive Security Assessment Report – Synthesized all findings into a master assessment report complete with CVSS v3.1 scoring, DREAD threat modeling, evidence archives, and an actionable remediation roadmap.
 
-A huge thank you to the SWYNEX Technologies team and mentors for designing such a practical, industry-aligned internship program that strengthened my skills in vulnerability assessment, network packet analysis, and defensive engineering! 🚀
+Sincere thanks to @SWYNEX Technologies for this incredible hands-on learning experience that deepened my practical knowledge of application security, network analysis, and vulnerability management! 🚀
 
-📂 GitHub Repository: https://github.com/ziyakausar07/SWYNEX-Security-Assessment-Report.git
+📂 GitHub Repository: https://github.com/ziyakausar07/SWYNEX-Security-Assessment-Report
 🆔 Intern ID: SWX-2026-002678
 
-#SWYNEX #Internship #CyberSecurity #NetworkSecurity #WebSecurity #VulnerabilityAssessment #InfoSec #Wireshark #OWASPTop10 #DefensiveSecurity #TechInternship
+#SWYNEX #CyberSecurity #Internship #DefensiveSecurity #NetworkSecurity #WebSecurity #VulnerabilityAssessment #Wireshark #OWASPTop10 #InfoSec #TechJourney
 ```
 
 ---
 
-### 💡 Tips for the Submission:
-- **Visual Attachment:** Attach either:
-  - A screenshot of the `SWYNEX_Final_Security_Assessment_Report.html` opened in your browser, or
-  - A collage of the key evidence screenshots (`evidence/task1-fundamentals/03_After_Security_Fix.png` and `evidence/task3-web/03B_SQL_Injection_Success.png`).
-- **Privacy Check:** Ensure your LinkedIn post is set to **Public** so the SWYNEX review team can access it without login restrictions.
+### 📋 Option 2: Short & Direct Format
+
+```text
+🚀 Successfully completed Task 4: Security Assessment Report of my Cyber Security Internship with @SWYNEX Technologies! 🛡️
+
+Here is a quick video walkthrough summarizing the findings across all three core assessment pillars:
+✔️ Task 1: API Security & Role-Based Access Control (@role_required("ADMIN"))
+✔️ Task 2: Wireshark Network Traffic & TLS 1.3 Cryptographic Handshake Analysis
+✔️ Task 3: OWASP Juice Shop Web Security Review (SQL Injection & Security Headers)
+✔️ Task 4: Consolidated Defensive Security Assessment Report & Remediation Roadmap
+
+Grateful to @SWYNEX Technologies for this comprehensive practical experience!
+
+🔗 GitHub Repository: https://github.com/ziyakausar07/SWYNEX-Security-Assessment-Report
+🆔 Intern ID: SWX-2026-002678
+
+#SWYNEX #Internship #CyberSecurity #VulnerabilityAssessment #InfoSec
+```
