@@ -1,0 +1,21 @@
+# OS & System Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Temporary & Log Files
+*.log
+*.tmp
+*.bak
+.cache/
+node_modules/
+
+# Credentials & Secrets (Defensive Sanitation)
+*.env
+*.pem
+*.key
+credentials.json
+token.json
+secrets/
